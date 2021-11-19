@@ -1,0 +1,39 @@
+body {
+    background-color: #ccc;
+    font-family: Helvetica, sans-serif;
+    color: #222;
+    margin-top: 80x;
+    font-size: 70px;
+}
+h1 {
+    margin: 0;
+    text-align: center;
+    font-size: 40px;
+}
+body{
+    font-size: 20px;
+    text-align: center;
+}
+
+button {
+    border-width: 10px;
+    font-size: 40px; 
+    text-align: center;
+    }
+
+.button1{
+    background-color:black;
+    color: white;
+}
+
+.button2{
+background-color: green;
+color: black;
+}
+
+.button3{
+    background-color: blanchedalmond;
+    color: black;
+
+}
+
